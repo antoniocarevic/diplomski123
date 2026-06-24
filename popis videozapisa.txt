@@ -1,0 +1,43 @@
+popis videozapisa:
+
+ured 100%
+ured 50%
+ured 75%
+ured oznake 75%
+ured oznake 50%
+ured oznake 100%
+
+mali ured 75%
+mali ured 100%
+mali ured 50%
+mali ured oznake 50%
+mali ured oznake 100% 
+mali ured oznake 75%
+
+hodnik 75%
+hodnik 100%
+hodnik 50%
+hodnik oznake 50%
+hodnik oznake 75%
+hodnik oznake 100%
+
+sjenica 100%
+sjenica 75% 
+sjenica 50%
+sjenica oznake 50%
+sjenica oznake 75%
+sjenica oznake 100%
+
+soba 50%
+soba 100%
+soba 75%
+soba oznake 75%
+soba oznake 50%
+soba oznake 100%
+
+ucionica 50%
+cuionica 100%
+ucionica 75%
+ucionica oznake 100%
+ucionica oznake 50%
+ucionica oznake 75%
