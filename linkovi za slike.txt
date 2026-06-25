@@ -1,3 +1,5 @@
 https://www.countinglab.co.uk/post/understanding-3d-scene-reconstruction-from-2d-images-with-cvpr-2024-workshop - link za sliku 2.1.
 
 https://www.researchgate.net/publication/347766495_Assessment_of_state-of-the-art_methods_for_bridge_inspection_case_study - link za sliku 2.2.
+
+2-3 slika: https://towardsdatascience.com/a-comprehensive-overview-of-gaussian-splatting-e7d570081362/ 
